@@ -1,12 +1,10 @@
-# Olá 👋
+# Olá e Bem-vindo / Eu sou o Sakala Simão
 
- I'm **Sakala Simão** and welcome to my profile. I'm from Angola, I'm a computer student , I like programming but I'm not super or genuis (unfortunately)😅 
-
-I want to be a profissional Coder and maybe  change the World.
- <div>
-  <a href="https://github.com/sakalasimao">
-  <img height="90em" style="border-radius:30%" src="https://github-readme-stats.vercel.app/api?username=sakalasimao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="90em" style="border-radius:30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakalasimao&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
+##
+<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css'>
+     <div>
+        <a href="https://github.com/sakalasimao">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakalasimao&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+      </div>
+      
+ 
