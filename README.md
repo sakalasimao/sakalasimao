@@ -4,7 +4,7 @@
 **Infelizmente eu não um génio, porém eu gosto de Programar e Talvez um dia eu consiga mudar o Mundo**🌏
    <div>
     <a href="https://github.com/sakalasimao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakalasimao&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakalasimao&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   </div>
    
 <!--As linguagens-->
@@ -15,7 +15,7 @@
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg">
    <img align="center" alt="php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-plain.svg">
     
-  <img align="right" alt="image" src="https://raw.githubusercontent.com/sakalasimao/icon-image/main/pg.gif?token=AMHXLKSJJ2NXNAOF7WH4WQLBAO5A2">
+  <img align="right" alt="image" src="">
 </div>
    
  ##  
