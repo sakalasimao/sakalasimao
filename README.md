@@ -1,7 +1,4 @@
 >## Hello World! and Welcome to my profile
-**Sakala Simão Mavambu Lusala é o meu nome, sou de Angola e um estudante de Programação**👨‍💻<br/>
-**sou apaixonado por tecnologia e encatado por Computadores**😍<br/>
-**Infelizmente eu não um génio, porém eu gosto de Programar e Talvez um dia eu consiga mudar o Mundo**🌏
    <div>
     <a href="https://github.com/sakalasimao">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakalasimao&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
